@@ -1,0 +1,356 @@
+{
+  "data": {
+    "domain": "hersheys.com",
+    "disposable": false,
+    "webmail": false,
+    "accept_all": true,
+    "pattern": "{f}{last}",
+    "organization": "Hershey",
+    "country": "DE",
+    "state": null,
+    "emails": [
+      {
+        "value": "lslater@hersheys.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "newonline.org",
+            "uri": "http://newonline.org/partnership/our-partners/hershey-company",
+            "extracted_on": "2019-12-02",
+            "last_seen_on": "2020-08-31",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Lisa",
+        "last_name": "Slater",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "esavo@hersheys.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "licensinginternational.org",
+            "uri": "http://licensinginternational.org/news/inside-licensing-news-and-notes-aug-6-2018",
+            "extracted_on": "2019-11-29",
+            "last_seen_on": "2020-09-11",
+            "still_on_page": true
+          },
+          {
+            "domain": "licensinginternational.org",
+            "uri": "http://licensinginternational.org/news/halloween-suppliers-adding-streaming-service-youtube-properties",
+            "extracted_on": "2019-08-27",
+            "last_seen_on": "2020-08-23",
+            "still_on_page": true
+          },
+          {
+            "domain": "licensinginternational.org",
+            "uri": "http://licensinginternational.org/news/inside-licensing-news-and-notes-april-30-2018",
+            "extracted_on": "2019-08-27",
+            "last_seen_on": "2020-08-28",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Ernie",
+        "last_name": "Savo",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": "+1 717 508 3112",
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "madams@hersheys.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "go.marybaldwin.edu",
+            "uri": "http://go.marybaldwin.edu/alumni/advisory-board-visitors",
+            "extracted_on": "2019-03-30",
+            "last_seen_on": "2020-08-22",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Mike",
+        "last_name": "Adams",
+        "position": "Communications Specialist",
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2020-07-22",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "bostling@hersheys.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "illinoisvending.org",
+            "uri": "http://illinoisvending.org/members.php",
+            "extracted_on": "2019-01-13",
+            "last_seen_on": "2020-09-20",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Brenda",
+        "last_name": "Ostling",
+        "position": "Marketing And Sales",
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "mdieffenbach@hersheys.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "naconline.org",
+            "uri": "http://naconline.org/nac-covid-19-resource-providers",
+            "extracted_on": "2020-08-23",
+            "last_seen_on": "2020-08-23",
+            "still_on_page": true
+          },
+          {
+            "domain": "illinoisvending.org",
+            "uri": "http://illinoisvending.org/members.php",
+            "extracted_on": "2019-01-13",
+            "last_seen_on": "2020-09-20",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Mark",
+        "last_name": "Dieffenbach",
+        "position": "Marketing And Sales",
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "trittenhouse@hersheys.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "pownetwork.org",
+            "uri": "http://pownetwork.org/tletter2.htm",
+            "extracted_on": "2018-11-01",
+            "last_seen_on": "2020-08-03",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Tina",
+        "last_name": "Rittenhouse",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "dgeier@hersheys.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "iga.com",
+            "uri": "http://iga.com/corporate/resources/iga-member-directory",
+            "extracted_on": "2018-10-10",
+            "last_seen_on": "2020-08-11",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Dan",
+        "last_name": "Geier",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "tkohr@hersheys.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "paratimujer.us",
+            "uri": "http://paratimujer.us/latinowire/hersheys-chocolate-world-attraction-celebrates-historic-100-millionth-visitor-milestone-this-holiday-season",
+            "extracted_on": "2019-02-08",
+            "last_seen_on": "2020-08-09",
+            "still_on_page": true
+          },
+          {
+            "domain": "eldiariony.com",
+            "uri": "http://eldiariony.com/latinowire/hersheys-chocolate-world-attraction-celebrates-historic-100-millionth-visitor-milestone-this-holiday-season",
+            "extracted_on": "2018-10-28",
+            "last_seen_on": "2020-09-04",
+            "still_on_page": true
+          },
+          {
+            "domain": "laraza.com",
+            "uri": "http://laraza.com/latinowire/hersheys-chocolate-world-attraction-celebrates-historic-100-millionth-visitor-milestone-this-holiday-season",
+            "extracted_on": "2018-10-24",
+            "last_seen_on": "2020-07-28",
+            "still_on_page": true
+          },
+          {
+            "domain": "laopinion.com",
+            "uri": "http://laopinion.com/latinowire/hersheys-chocolate-world-attraction-celebrates-historic-100-millionth-visitor-milestone-this-holiday-season",
+            "extracted_on": "2018-08-23",
+            "last_seen_on": "2020-07-18",
+            "still_on_page": true
+          },
+          {
+            "domain": "laprensafl.com",
+            "uri": "http://laprensafl.com/latinowire/hersheys-chocolate-world-attraction-celebrates-historic-100-millionth-visitor-milestone-this-holiday-season",
+            "extracted_on": "2018-11-10",
+            "last_seen_on": "2020-03-14",
+            "still_on_page": false
+          }
+        ],
+        "first_name": "Todd",
+        "last_name": "Kohr",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": "+1 717 534 4006",
+        "verification": {
+          "date": "2020-09-26",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "acorcoran@hersheys.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "bullhouseboatworks.com",
+            "uri": "http://bullhouseboatworks.com/index.html",
+            "extracted_on": "2018-03-25",
+            "last_seen_on": "2020-08-03",
+            "still_on_page": true
+          },
+          {
+            "domain": "bullhouseboatworks.com",
+            "uri": "http://bullhouseboatworks.com/mailingaddress.html",
+            "extracted_on": "2017-10-04",
+            "last_seen_on": "2020-07-21",
+            "still_on_page": true
+          },
+          {
+            "domain": "bullhouseboatworks.com",
+            "uri": "http://bullhouseboatworks.com",
+            "extracted_on": "2016-10-04",
+            "last_seen_on": "2020-07-06",
+            "still_on_page": true
+          },
+          {
+            "domain": "thehersheycompany.com",
+            "uri": "http://thehersheycompany.com/en_us/news-center/blog/new-tricks-for-classic-treats.html",
+            "extracted_on": "2016-11-12",
+            "last_seen_on": "2018-01-28",
+            "still_on_page": false
+          }
+        ],
+        "first_name": "Alex",
+        "last_name": "Corcoran",
+        "position": "Senior Director",
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2020-06-29",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "tjastrzebski@hersheys.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "imonlyhereforthefood2.blogspot.com",
+            "uri": "http://imonlyhereforthefood2.blogspot.com/2013/04/hershey-is-advertising-for-al-jazerra.html",
+            "extracted_on": "2016-09-20",
+            "last_seen_on": "2020-07-31",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Thaddeus",
+        "last_name": "Jastrzebski",
+        "position": "Global Marketing",
+        "seniority": null,
+        "department": "marketing",
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      }
+    ]
+  },
+  "meta": {
+    "results": 154,
+    "limit": 10,
+    "offset": 0,
+    "params": {
+      "domain": "hersheys.com",
+      "company": null,
+      "type": null,
+      "seniority": null,
+      "department": null
+    }
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "data": {
+    "domain": "telmex.com",
+    "disposable": false,
+    "webmail": false,
+    "accept_all": false,
+    "pattern": "{f}{last}",
+    "organization": "Lucasfilm Ltd",
+    "country": null,
+    "state": null,
+    "emails": [
+      {
+        "value": "hslim@telmex.com",
+        "type": "personal",
+        "confidence": 99,
+        "sources": [
+          {
+            "domain": "lideresmexicanos.com",
+            "uri": "http://lideresmexicanos.com/300/hector-slim-seade",
+            "extracted_on": "2019-10-15",
+            "last_seen_on": "2020-07-14",
+            "still_on_page": true
+          },
+          {
+            "domain": "lideresmexicanos.com",
+            "uri": "http://lideresmexicanos.com/300/hector-slim-seade-3",
+            "extracted_on": "2019-09-11",
+            "last_seen_on": "2020-07-17",
+            "still_on_page": true
+          },
+          {
+            "domain": "lideresmexicanos.com",
+            "uri": "http://lideresmexicanos.com/300/hector-slim-seade-2",
+            "extracted_on": "2019-07-27",
+            "last_seen_on": "2020-07-15",
+            "still_on_page": true
+          },
+          {
+            "domain": "lideresmexicanos.com",
+            "uri": "http://lideresmexicanos.com/300/hector-slim-seade-los-300",
+            "extracted_on": "2019-04-19",
+            "last_seen_on": "2020-08-24",
+            "still_on_page": true
+          },
+          {
+            "domain": "golfcuernavaca.com",
+            "uri": "http://golfcuernavaca.com/directorio.php",
+            "extracted_on": "2017-09-13",
+            "last_seen_on": "2020-09-13",
+            "still_on_page": true
+          },
+          {
+            "domain": "lideresmexicanos.com",
+            "uri": "http://lideresmexicanos.com",
+            "extracted_on": "2020-02-05",
+            "last_seen_on": "2020-02-05",
+            "still_on_page": false
+          }
+        ],
+        "first_name": null,
+        "last_name": null,
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "csantoyo@telmex.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "apestan.com",
+            "uri": "http://apestan.com/cases/itesi-irapuato-guanajuato-mexico_5096.html",
+            "extracted_on": "2020-08-02",
+            "last_seen_on": "2020-08-02",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Carlos",
+        "last_name": "Santoyo",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "itoledo@telmex.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "bienestartelmex.org",
+            "uri": "http://bienestartelmex.org/recursos",
+            "extracted_on": "2019-09-13",
+            "last_seen_on": "2020-09-01",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Ileana",
+        "last_name": "Toledo",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "mparada@telmex.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "llantapirelli.com",
+            "uri": "http://llantapirelli.com/sitio/nosotros/testimonios",
+            "extracted_on": "2019-04-13",
+            "last_seen_on": "2020-07-13",
+            "still_on_page": true
+          },
+          {
+            "domain": "llantaspirelli.com",
+            "uri": "http://llantaspirelli.com/sitio/nosotros/testimonios",
+            "extracted_on": "2018-11-19",
+            "last_seen_on": "2020-08-02",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Martha",
+        "last_name": "Parada",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "pcano@telmex.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "broadjam.com",
+            "uri": "http://broadjam.com/thefifthelement",
+            "extracted_on": "2018-11-01",
+            "last_seen_on": "2020-07-13",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Pablo",
+        "last_name": "Cano",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "ssoriano@telmex.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "slideshare.net",
+            "uri": "http://slideshare.net/ciapem/las-comunicaciones-y-las-ciudades",
+            "extracted_on": "2016-12-14",
+            "last_seen_on": "2018-09-05",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Silvio",
+        "last_name": "Soriano",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "glaborin@telmex.com",
+        "type": "personal",
+        "confidence": 93,
+        "sources": [
+          {
+            "domain": "bienestartelmex.org",
+            "uri": "http://bienestartelmex.org/recursos",
+            "extracted_on": "2019-09-13",
+            "last_seen_on": "2020-09-01",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Guadalupe",
+        "last_name": "Laborin",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "ggalvez@telmex.com",
+        "type": "personal",
+        "confidence": 93,
+        "sources": [
+          {
+            "domain": "bienestartelmex.org",
+            "uri": "http://bienestartelmex.org/recursos",
+            "extracted_on": "2019-01-17",
+            "last_seen_on": "2020-09-01",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Griselda",
+        "last_name": "Galvez",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "jalcazar@telmex.com",
+        "type": "personal",
+        "confidence": 93,
+        "sources": [
+          {
+            "domain": "residenciasprofesionalesitv.blogspot.com",
+            "uri": "http://residenciasprofesionalesitv.blogspot.com/2012/04/bolsa-de-trabajo-telefonos-de-mexico.html",
+            "extracted_on": "2018-10-12",
+            "last_seen_on": "2020-08-15",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Jose",
+        "last_name": "Alcazar",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "epacheco@telmex.com",
+        "type": "personal",
+        "confidence": 93,
+        "sources": [
+          {
+            "domain": "slideserve.com",
+            "uri": "http://slideserve.com/joy/beneficios-para-socios-abril-2009",
+            "extracted_on": "2017-05-04",
+            "last_seen_on": "2020-04-17",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Eduardo",
+        "last_name": "Pacheco",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      }
+    ]
+  },
+  "meta": {
+    "results": 119,
+    "limit": 10,
+    "offset": 0,
+    "params": {
+      "domain": "telmex.com",
+      "company": null,
+      "type": null,
+      "seniority": null,
+      "department": null
+    }
+  }
+}

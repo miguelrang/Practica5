@@ -1,0 +1,300 @@
+{
+  "data": {
+    "domain": "twitter.com",
+    "disposable": false,
+    "webmail": false,
+    "accept_all": true,
+    "pattern": "{first}{last}",
+    "organization": "Twitter",
+    "country": "US",
+    "state": "CA",
+    "emails": [
+      {
+        "value": "garybernhardt@twitter.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "convenient.email",
+            "uri": "http://convenient.email/display/2c704a81-175e-faa1-529b-0bf376489561",
+            "extracted_on": "2020-08-08",
+            "last_seen_on": "2020-08-08",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Gary",
+        "last_name": "Bernhardt",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": "garybernhardt",
+        "phone_number": null,
+        "verification": {
+          "date": "2020-09-23",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "carolchism@twitter.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "remax.com",
+            "uri": "http://remax.com/realestateagentoffice/columbus-ga-31909-carolchism-id11093587.html",
+            "extracted_on": "2020-08-16",
+            "last_seen_on": "2020-08-16",
+            "still_on_page": true
+          },
+          {
+            "domain": "remax.com",
+            "uri": "http://remax.com/realestateagentoffice/columbus-ga-31904-carolchism-id11093587.html",
+            "extracted_on": "2020-08-06",
+            "last_seen_on": "2020-08-06",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Carol",
+        "last_name": "Chism",
+        "position": "Real Estate Sales",
+        "seniority": null,
+        "department": null,
+        "linkedin": "https://carolchism@linkedin.com",
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2020-09-23",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "michaelkofler@twitter.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "fc.leemhuis.info",
+            "uri": "http://fc.leemhuis.info/display/b843879c-685e-fac3-501a-256052896774",
+            "extracted_on": "2020-08-05",
+            "last_seen_on": "2020-08-05",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Michael",
+        "last_name": "Kofler",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": "michaelkofler",
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "arielle@twitter.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "blog.twitter.com",
+            "uri": "http://blog.twitter.com/es_la/a/es/2016/equipo-de-gnip-visita-s-o-paulo-en-mayo-para-tratar-de-datos-de-twitter.html",
+            "extracted_on": "2020-07-30",
+            "last_seen_on": "2020-07-30",
+            "still_on_page": true
+          },
+          {
+            "domain": "blog.twitter.com",
+            "uri": "http://blog.twitter.com/pt_br/a/pt/2016/equipe-da-gnip-visita-s-o-paulo-em-maio-para-falar-sobre-dados-do-twitter.html",
+            "extracted_on": "2020-07-30",
+            "last_seen_on": "2020-07-30",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Arielle",
+        "last_name": "Schwartz",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "erikmarquardt@twitter.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "social.softmetz.de",
+            "uri": "http://social.softmetz.de/display/5d17d2be-175e-938f-c2ea-483214871352",
+            "extracted_on": "2020-07-28",
+            "last_seen_on": "2020-07-28",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Erik",
+        "last_name": "Marquardt",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": "erikmarquardt",
+        "phone_number": null,
+        "verification": {
+          "date": "2020-09-23",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "katekaput@twitter.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "convenient.email",
+            "uri": "http://convenient.email/display/2c704a81-105e-c21f-bcac-71e672299329",
+            "extracted_on": "2020-07-17",
+            "last_seen_on": "2020-07-17",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Kate",
+        "last_name": "Kaput",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": "katekaput",
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "mikeboos@twitter.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "convenient.email",
+            "uri": "http://convenient.email/display/2c704a81-165e-8231-4ad4-f8c227360868",
+            "extracted_on": "2020-05-05",
+            "last_seen_on": "2020-08-08",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Mike",
+        "last_name": "Boos",
+        "position": "Cofounder",
+        "seniority": null,
+        "department": "executive",
+        "linkedin": null,
+        "twitter": "mikeboos",
+        "phone_number": null,
+        "verification": {
+          "date": "2020-09-08",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "liorsteinberg@twitter.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "convenient.email",
+            "uri": "http://convenient.email/display/2c704a81-235e-08d2-33ca-901453935520",
+            "extracted_on": "2020-05-05",
+            "last_seen_on": "2020-08-14",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Lior",
+        "last_name": "Steinberg",
+        "position": "Cofounder",
+        "seniority": null,
+        "department": "executive",
+        "linkedin": null,
+        "twitter": "liorsteinberg",
+        "phone_number": null,
+        "verification": {
+          "date": "2020-09-08",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "leoroth@twitter.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "democratandchronicle.com",
+            "uri": "http://democratandchronicle.com/story/news/2015/03/17/greece-athena-students-police-special-needs/24913049",
+            "extracted_on": "2020-04-26",
+            "last_seen_on": "2020-07-26",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Leo",
+        "last_name": "Roth",
+        "position": "Staff Writer",
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": "dandc",
+        "phone_number": null,
+        "verification": {
+          "date": "2020-08-26",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "roberto@twitter.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "ryabienesraices.com",
+            "uri": "http://ryabienesraices.com/nosotros",
+            "extracted_on": "2020-04-13",
+            "last_seen_on": "2020-07-13",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Roberto",
+        "last_name": "Duran",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2020-08-11",
+          "status": "accept_all"
+        }
+      }
+    ]
+  },
+  "meta": {
+    "results": 4978,
+    "limit": 10,
+    "offset": 0,
+    "params": {
+      "domain": "twitter.com",
+      "company": null,
+      "type": null,
+      "seniority": null,
+      "department": null
+    }
+  }
+}
